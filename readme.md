@@ -33,5 +33,5 @@ To deploy this project:
 
 
 
-[![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@anirudhpanda&color=grey&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/aatif20)
+[![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@aatif20&color=grey&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/aatif20)
 
