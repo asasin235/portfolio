@@ -5,7 +5,7 @@ A minimalistic Portfolio website to showcase my professional career.
 
 ## Screenshots
 
-![App Screenshot](https://i.postimg.cc/c4szDvMS/portfolio.webp)
+![App Screenshot](#)
 
 ##### **Here is the link to the [live demo](#)**
 ## How to run?
