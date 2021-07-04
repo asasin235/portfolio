@@ -5,7 +5,7 @@ A minimalistic Portfolio website to showcase my professional career.
 
 ## Screenshots
 
-![App Screenshot](https://ibb.co/k8g4n6z"><img src="https://i.ibb.co/6PRHhJG/Screenshot-2021-07-04-at-4-08-18-PM.png)
+![App Screenshot](https://i.ibb.co/6PRHhJG/Screenshot-2021-07-04-at-4-08-18-PM.png)
 
 ##### **Here is the link to the [live demo](https://aatif20.netlify.app)**
 ## How to run?
